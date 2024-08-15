@@ -2,6 +2,7 @@
 This project is a streamlined eCommerce platform designed to showcase essential shopping features, from product browsing to order management.
 
 🌟 Key Features:
+
 🛍️ Product Display: Users can browse through a handpicked selection of products. Navigation buttons allow for easy exploration.
 ![image](https://github.com/user-attachments/assets/21f52151-0dfe-4188-b90a-064dad2d84e9)
 
